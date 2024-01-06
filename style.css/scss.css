@@ -161,6 +161,7 @@ header .navbar ul li a:hover{
     background: var(--yellow);
 }
 
+
 #menu{
     position: fixed;
     top: 2rem;
@@ -172,8 +173,8 @@ header .navbar ul li a:hover{
     padding: 1rem 1.5rem;
     z-index: 1000;
     display: none;
-}
 
+}
 .home{
     display: flex;
     justify-content: center;
